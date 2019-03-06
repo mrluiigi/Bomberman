@@ -1,4 +1,4 @@
-# LI1
+# Bomberman
 Projeto Prático de Laboratórios de Informática 1
 
 ## What is it?
