@@ -1,5 +1,9 @@
 # LI1
+Projeto Prático de Laboratórios de Informática 1
 
-Projeto de LI1
+## What is it?
+Implementação do clássico jogo Bomberman em battle mode.
 
-Bomberman
+## Contributors
+[Luís Correia] (https://github.com/mrluiigi) <br />
+[José Pinto] (https://github.com/a81317) <br />
